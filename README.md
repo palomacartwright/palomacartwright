@@ -2,8 +2,8 @@
 
 #### Here is some info about me!
 
-- 🌱 I’m currently learning R, RStudio, Python and everything else my Master of Environmental Data Science Master's Program will teach me! 
-- 💬 Ask me about anything related to The Bahamas or sailing! 
+- 🌱 I’m currently learning R, Python, SQL, GCP and everything else my Master of Environmental Data Science Master's Program will teach me! 
+- 💬 Ask me about my work on the [Whale Safe](whalesafe.com) project or anything related to The Bahamas & sailing! 
 - 📫 How to reach me: palomacartwright@bren.ucsb.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have been sailing competitively for Team Bahamas since I was 10!
